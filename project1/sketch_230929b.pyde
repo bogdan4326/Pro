@@ -1,0 +1,8 @@
+size(600,600)
+strokeWeight(10)
+fill(22,103,4)
+triangle(132,204,200,100,300,200)
+translate(20,90)
+triangle(132,204,200,100,300,200)
+translate(20,90)
+triangle(132,204,200,100,300,200)
